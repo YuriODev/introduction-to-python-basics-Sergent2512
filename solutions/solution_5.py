@@ -1,6 +1,6 @@
 # Read the input
 a = int(input())
-b = int(input())
+b = int(input()) 
 
 # Calculate the maximum value
 max_value = (a + b + abs(a - b)) // 2
